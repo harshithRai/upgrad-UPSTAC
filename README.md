@@ -1,0 +1,1 @@
+This is the upstac application's UI and API codes
